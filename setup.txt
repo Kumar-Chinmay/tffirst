@@ -6,4 +6,4 @@ git config --global user.email "kumars@gmail.com"
 git config --global user.name "Kumar S"
 git branch -M main
 git remote add origin https://github.com/Kumar-Chinmay/tffirst.git
-git push -u origin main
+git push -u origin main/master
